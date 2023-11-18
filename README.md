@@ -1,8 +1,8 @@
 # LocalNet_Attacker
-This Tool is a java based local network attacking tool. By using this tool you can attack the Windows Systems thats are connected with you in the same Network.
-There are Two files:
- =>Attack
- =>Victim
+* This Tool is a java based local network attacking tool. By using this tool you can attack the Windows Systems thats are connected with you in the same Network.
+*There are Two files:
+ *=>Attack
+ *=>Victim
  
 # How to Attack
 You first run the Attack file in your System.
