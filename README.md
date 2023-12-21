@@ -4,13 +4,25 @@
 * This Tool is a java based local network attacking tool. By using this tool you can attack or gather information about the target Windows Systems thats are connected with you in the same Network.
 
  
-# How to Attack
-* You first run the Attack file in your System.
-* Change the ip address to your system's ip in the Victim's file.
-![image](https://github.com/DhesiTheKing/LocalNet_Attacker/assets/136635078/6941d9f3-ebee-48ae-b6ac-5c4b8a8b2fa7)
+## Features
 
-* Run the Victim file on target system.
-* if you're done Successfully you see the option for Attack and Information Gathering.
-  ![image](https://github.com/DhesiTheKing/LocalNet_Attacker/assets/136635078/3c774a5c-f8b1-4eaa-9050-8ee92c66ebc2)
+- Fetch IP details
+- Fetch system details
+- Web attacks
+- Directory discovery
+- Download and execute files and programs
+  
+## Deployment
+To deploy this project run
+```bash
+  install jdk latest version
+  first run the attacker application
+  then run victim application in target system and enter your system ip
+```
+## Screenshots
+- In victims apllication enter your ip address
+![Screenshot 2023-12-21 090741](https://github.com/DhesiTheKing/LocalNet_Attacker/assets/136635078/7fe843f1-3ef5-4d5d-b05b-d2e2240205b4)
+- after getting access
+![image](https://github.com/DhesiTheKing/LocalNet_Attacker/assets/136635078/b8cd871e-3f27-45ff-8cc8-2c657fc4ac41)
 
-* Enter the commandand Enjoy attacking.
+
