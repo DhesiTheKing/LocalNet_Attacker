@@ -21,8 +21,11 @@ To deploy this project run
 ```
 ## Screenshots
 - In victims apllication enter your ip address
+  
 ![Screenshot 2023-12-21 090741](https://github.com/DhesiTheKing/LocalNet_Attacker/assets/136635078/7fe843f1-3ef5-4d5d-b05b-d2e2240205b4)
+
 - after getting access
+  
 ![image](https://github.com/DhesiTheKing/LocalNet_Attacker/assets/136635078/b8cd871e-3f27-45ff-8cc8-2c657fc4ac41)
 
 
