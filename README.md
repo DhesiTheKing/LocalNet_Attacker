@@ -28,4 +28,5 @@ To deploy this project run
   
 ![image](https://github.com/DhesiTheKing/LocalNet_Attacker/assets/136635078/b8cd871e-3f27-45ff-8cc8-2c657fc4ac41)
 
-
+## Apps
+- All the apps in the 'APPA_PORT_3333' folder and source code in the main branch
