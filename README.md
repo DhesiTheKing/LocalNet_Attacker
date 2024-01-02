@@ -1,7 +1,7 @@
 # LocalNet_Attacker
 ![LocalNet_Attacker](https://socialify.git.ci/DhesiTheKing/LocalNet_Attacker/image?language=1&name=1&owner=1&pattern=Solid&stargazers=1&theme=Light)
 
-* This Tool is a java based local network attacking tool. By using this tool you can attack or gather information about the target Windows Systems thats are connected with you in the same Network.
+* This is a java based local network attacking tool. By using this tool you can attack or gather information about the target Windows Systems thats are connected with you in the same Network.
 
  
 ## Features
